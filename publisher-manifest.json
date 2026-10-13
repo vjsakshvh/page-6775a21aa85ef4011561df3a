@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "21a75bfb8d51bf5746e58245",
+  "owner": "vjsakshvh",
+  "repo": "page-6775a21aa85ef4011561df3a",
+  "title": "小火箭节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6775a21aa85ef4011561df3a",
+      "a": "小火箭节点",
+      "b": "",
+      "entity": "小火箭节点",
+      "brand": "小火箭节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1bbd9216122d4808e8ea45a5ca4176295254d7c43118d8eeb79f23a600ae4ba6",
+      "content": {
+        "keyword1": "小火箭节点",
+        "keyword2": "",
+        "primary_entity": "小火箭节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭节点提供高效VPN加速服务，基础版15元/月，旗舰版35元/月，团队版85元/月。支持多设备在线，解锁流媒体，IPLC加速。立即下载客户端畅享极速网络。",
+          "AI_DESCRIPTION": "小火箭节点提供高效VPN加速服务，基础版15元/月，旗舰版35元/月，团队版85元/月。支持多设备在线，解锁流媒体，IPLC加速。立即下载客户端畅享极速网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<header>\n<div>\n<h1>小火箭节点</h1>\n<nav>\n<a href=\"#plans\">套餐</a>\n<a href=\"#config\">配置</a>\n<a href=\"#faq\">FAQ</a>\n</nav>\n</div>\n</header>\n<main>\n<section>\n<h2>解锁无限可能</h2>\n<p>小火箭节点 - 高速VPN加速器，助您畅享流畅网络</p>\n\n</section>\n<section>\n<h2>品牌简介</h2>\n<p>小火箭节点致力于提供可靠的网络加速服务，通过先进的节点技术，帮助用户突破地域限制，提升网络速度。无论日常浏览、在线游戏还是视频观看，我们都能为您提供优质体验。</p>\n</section>\n<section id=\"plans\">\n<h2>选择您的套餐</h2>\n<div>\n<div>\n<h3>基础版</h3>\n<p>¥15/月</p>\n<p>按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n\n</div>\n<div>\n<h3>旗舰版</h3>\n<p>¥35/月</p>\n<p>按年付仅需 ¥350/年</p>\n<p>推荐</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n\n</div>\n<div>\n<h3>团队版</h3>\n<p>¥85/月</p>\n<p>按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n\n</div>\n</div>\n</section>\n<section id=\"config\">\n<h2>配置流程</h2>\n<div>\n<div>\n<div>1</div>\n<div>\n<h3>选择套餐</h3>\n<p>根据您的需求选择基础版、旗舰版或团队版。</p>\n</div>\n</div>\n<div>\n<div>2</div>\n<div>\n<h3>完成支付</h3>\n<p>支持多种支付方式，支付后立即生效。</p>\n</div>\n</div>\n<div>\n<div>3</div>\n<div>\n<h3>下载客户端</h3>\n<p>登录账号后下载适用于Windows、Mac、Android、iOS的客户端。</p>\n</div>\n</div>\n<div>\n<div>4</div>\n<div>\n<h3>安装与配置</h3>\n<p>安装后根据提示选择节点，开启加速功能。</p>\n</div>\n</div>\n<div>\n<div>5</div>\n<div>\n<h3>开始使用</h3>\n<p>连接节点即可享受高速网络。</p>\n</div>\n</div>\n</div>\n</section>\n<section>\n<h2>使用场景</h2>\n<div>\n<div>\n<h3>流媒体解锁</h3>\n<p>轻松解锁Netflix、YouTube、Disney+ 等热门平台。</p>\n</div>\n<div>\n<h3>游戏加速</h3>\n<p>IPLC专线优化，降低延迟，提升游戏体验。</p>\n</div>\n<div>\n<h3>多人在线</h3>\n<p>支持多台设备同时使用，家庭或团队协作无压力。</p>\n</div>\n<div>\n<h3>隐私保护</h3>\n<p>隐藏真实IP，保护网络隐私安全。</p>\n</div>\n</div>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<div>\n<details>\n<summary>什么是小火箭节点？</summary>\n<p>小火箭节点是一款专业的VPN加速器，提供高速节点池，帮助用户加速网络连接，解锁更多内容。</p>\n</details>\n<details>\n<summary>如何选择套餐？</summary>\n<p>基础版适合个人使用，旗舰版适合重度用户，团队版适合大型团队或企业。</p>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<p>支持Windows、Mac、Android、iOS等主流操作系统，多个设备同时在线。</p>\n</details>\n<details>\n<summary>节点覆盖范围？</summary>\n<p>提供全球多地节点池，包括普通和专线线路。</p>\n</details>\n<details>\n<summary>支持流媒体平台？</summary>\n<p>旗舰版及以上支持Netflix、YouTube、Disney+ 等主流流媒体平台原生解锁。</p>\n</details>\n</div>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n<p>© 2024 小火箭节点 所有权利保留</p>\n<p>友情链接： <a href=\"#\">官网</a> | <a href=\"#\">下载</a></p>\n<p>广告： <a href=\"#\">联系我们</a></p>\n</footer>\n\n",
+          "hash": "59d6fbb828e92e1740578bb5e0291ff01f685aa0696713c37ace6079ad553599",
+          "seo": {
+            "title": "小火箭节点 - 高速VPN加速器 客户端下载 | 基础版 旗舰版 团队版",
+            "keywords": "小火箭节点,VPN加速器,网络加速,客户端下载,机场,高速VPN",
+            "description": "小火箭节点提供高效VPN加速服务，基础版15元/月，旗舰版35元/月，团队版85元/月。支持多设备在线，解锁流媒体，IPLC加速。立即下载客户端畅享极速网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ev960.cn",
+    "host": "p-49fbc5b9dd.ev960.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "daec4dd9b6d8f9c2f8cf952a647245fabbf0b6ed941ef153bc2abddd095a1cb6",
+    "sitemap.xml": "51ed4da463b2a3a60e1138bba9417fa82ea02b0a8630b6c9be1e7a082f0c4e25",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5d2dfc64b77627b9a2a060e31eff7d76dca078dd76a1b6f258f5bb618518ab90",
+    "robots.txt": "f6b56518379645f34388c03ffd2402cc878399f2ef4ec1a432a62fba70c114cd",
+    "96d42fe15e3a71cc954ee29d2b9a34a1.txt": "c4c432830924cb2504017f28359f55eb800d94a1626e80ab886cbe17454e4387"
+  },
+  "revision": "09490971a22478fd7825445d6cc37b4aafbbd1b993f89e147caf5f3e56a4bf87"
+}
